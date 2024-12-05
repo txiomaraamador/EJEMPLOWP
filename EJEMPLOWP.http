@@ -1,0 +1,6 @@
+@EJEMPLOWP_HostAddress = http://localhost:5217
+
+GET {{EJEMPLOWP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
